@@ -1,4 +1,4 @@
-package Desafios;
+package Desafios.Easy;
 
 public class BuscaBinaria {
     public static void main(String[] args) {

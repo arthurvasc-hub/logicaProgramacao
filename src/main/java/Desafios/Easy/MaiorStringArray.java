@@ -1,4 +1,4 @@
-package Desafios;
+package Desafios.Easy;
 
 import java.util.Arrays;
 import java.util.Comparator;

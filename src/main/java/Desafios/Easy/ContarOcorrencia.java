@@ -1,4 +1,4 @@
-package Desafios;
+package Desafios.Easy;
 
 public class ContarOcorrencia {
     public static void main(String[] args) {
